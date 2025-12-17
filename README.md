@@ -60,6 +60,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Productivity software for Database Developers, DBAs, and Analysts.
 - [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with proweful script and grid functionality.
 - [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
+- [Database Workbench](https://www.upscene.com/database_workbench/) - Complete database design and development IDE for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, NexusDB and SQLite.
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
@@ -98,6 +99,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Azure Data Studio](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 - [Clidey WhoDB](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
+- [Database Workbench](https://www.upscene.com/database_workbench/) - Complete database design and development IDE for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, NexusDB and SQLite.
 - [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 - [DB Lens](https://github.com/dblens/app) - Open Source PostgreSQL GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 - [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
